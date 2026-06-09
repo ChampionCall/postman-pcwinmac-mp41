@@ -1,4 +1,4 @@
-# 
+# Profissional Postman predefinições para Mac OS | Seguro Postman predefinições para PC Windows. Com configuração de rede e editor de consultas — otimizado para máximo desempenho em cada plataforma.
 
 
 
